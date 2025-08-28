@@ -1,4 +1,4 @@
-# 🤖 My Assistant – Next.js + OpenAI
+# Assistant – Next.js + OpenAI
 
 Um **assistente de IA minimalista** construído com **Next.js 15**, **TypeScript** e **TailwindCSS**, que consome a **OpenAI API** para responder mensagens em tempo real.
 
@@ -6,7 +6,7 @@ Um **assistente de IA minimalista** construído com **Next.js 15**, **TypeScript
 
 ---
 
-## 🚀 Tecnologias & Skills
+## Tecnologias & Skills
 
 - [Next.js 15](https://nextjs.org/) · **App Router**, API Routes, SSR
 - [TypeScript](https://www.typescriptlang.org/) · tipagem estática
@@ -19,7 +19,7 @@ Um **assistente de IA minimalista** construído com **Next.js 15**, **TypeScript
 
 ---
 
-## 📦 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```bash
 my-assistant/
@@ -35,26 +35,26 @@ my-assistant/
 └── tsconfig.json          # config TypeScript
 
 
-## ⚙️ Como rodar localmente
+## Como rodar localmente
 # (seu conteúdo atual aqui)
 
 ---
 
-## 🌐 Deploy
+## Deploy
 Este projeto foi pensado para rodar facilmente no **Vercel**:
 
-- 🚀 Deploy automático com `git push`  
-- 🔑 Variáveis de ambiente seguras (`.env`)  
+- Deploy automático com `git push`  
+- Variáveis de ambiente seguras (`.env`)  
 - ⚡ Edge-ready com suporte a rotas serverless  
 
 ---
 
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 Este projeto foi criado para:
 
-- 🚀 **Aprender e aplicar** conceitos modernos do **App Router no Next.js 15**
-- 🤝 **Mostrar integração prática** com a **OpenAI API**
-- 📂 Servir como **case de portfólio** para:
+- **Aprender e aplicar** conceitos modernos do **App Router no Next.js 15**
+- **Mostrar integração prática** com a **OpenAI API**
+- Servir como **case de portfólio** para:
   - Desenvolvimento web com React/Next.js
   - Integração de IA em aplicações reais
   - Boas práticas de frontend + backend no mesmo repo
