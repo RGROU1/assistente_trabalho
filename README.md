@@ -5,6 +5,7 @@
 - Construído com **Next.js 15**, **TypeScript** e **TailwindCSS**,
 - Consumindo a **OpenAI API** com suporte a **RAG** e **orquestração de ferramentas**.
 
+
 ![Demo](./public/hero-readme-dark.svg)
 
 
