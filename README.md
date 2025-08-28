@@ -8,7 +8,6 @@
 
 ![Demo](./public/hero-readme-dark.svg)
 
-
 ---
 
 ## Tecnologias & Skills
