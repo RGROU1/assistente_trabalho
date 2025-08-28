@@ -2,7 +2,7 @@
 
 Um **assistente de IA minimalista** construído com **Next.js 15**, **TypeScript** e **TailwindCSS**, que consome a **OpenAI API** para responder mensagens em tempo real.
 
-![Demo](./public/hero-readme.svg) <!-- Banner Dark, troque para o Light se preferir -->
+![Demo]([Demo](public/hero-readme.svg)) <!-- Banner Dark, troque para o Light se preferir -->
 
 ---
 
