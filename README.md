@@ -1,36 +1,62 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🤖 My Assistant – Next.js + OpenAI
 
-## Getting Started
+Um **assistente de IA minimalista** construído com **Next.js 15**, **TypeScript** e **TailwindCSS**, que consome a **OpenAI API** para responder mensagens em tempo real.
 
-First, run the development server:
+![Demo](./public/hero-readme.svg) <!-- Banner Dark, troque para o Light se preferir -->
+
+---
+
+## 🚀 Tecnologias & Skills
+
+- [Next.js 15](https://nextjs.org/) · **App Router**, API Routes, SSR
+- [TypeScript](https://www.typescriptlang.org/) · tipagem estática
+- [TailwindCSS](https://tailwindcss.com/) · estilização rápida e responsiva
+- [OpenAI API](https://platform.openai.com/docs) · modelo `gpt-4o-mini`
+- [ESLint + Prettier](https://eslint.org/) · qualidade e consistência de código
+- **REST API** · proxy seguro para chamadas externas
+- **Git & GitHub** · versionamento e colaboração
+- **Deploy no Vercel** · CI/CD integrado
+
+---
+
+## 📦 Estrutura do Projeto
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+my-assistant/
+├── public/                # assets estáticos (ícones, banners, etc.)
+├── src/
+│   ├── app/
+│   │   ├── api/assistant/ # rota API → integra com OpenAI
+│   │   ├── page.tsx       # interface do chat
+│   │   └── layout.tsx     # layout base
+│   └── styles/            # estilos globais
+├── .env.local             # chave OPENAI_API_KEY
+├── tailwind.config.ts     # config Tailwind
+└── tsconfig.json          # config TypeScript
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## ⚙️ Como rodar localmente
+# (seu conteúdo atual aqui)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🌐 Deploy
+Este projeto foi pensado para rodar facilmente no **Vercel**:
 
-To learn more about Next.js, take a look at the following resources:
+- 🚀 Deploy automático com `git push`  
+- 🔑 Variáveis de ambiente seguras (`.env`)  
+- ⚡ Edge-ready com suporte a rotas serverless  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🎯 Objetivo do Projeto
+Este projeto foi criado para:
 
-## Deploy on Vercel
+- 🚀 **Aprender e aplicar** conceitos modernos do **App Router no Next.js 15**
+- 🤝 **Mostrar integração prática** com a **OpenAI API**
+- 📂 Servir como **case de portfólio** para:
+  - Desenvolvimento web com React/Next.js
+  - Integração de IA em aplicações reais
+  - Boas práticas de frontend + backend no mesmo repo
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
