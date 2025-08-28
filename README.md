@@ -1,8 +1,9 @@
-# My Assistant – Next.js + OpenAI
+# Assistente de Trabalho – Next.js + OpenAI
 
-Um **assistente de IA minimalista** construído com **Next.js 15**, **TypeScript** e **TailwindCSS**, que consome a **OpenAI API** para responder mensagens em tempo real.
+Sua **IA personalizada** com seus arquivos, livros e referências.  
+Construído com **Next.js 15**, **TypeScript** e **TailwindCSS**, consumindo a **OpenAI API** com suporte a **RAG** e orquestração de ferramentas.
 
-![Demo]([Demo](public/hero-readme.svg)) <!-- Banner Dark, troque para o Light se preferir -->
+![Demo](public/hero-readme-dark.svg)
 
 ---
 
