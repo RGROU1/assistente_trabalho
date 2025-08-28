@@ -3,7 +3,8 @@
 Sua **IA personalizada** com seus arquivos, livros e referências.  
 Construído com **Next.js 15**, **TypeScript** e **TailwindCSS**, consumindo a **OpenAI API** com suporte a **RAG** e orquestração de ferramentas.
 
-![Demo](public/hero-readme-dark.svg)
+![Demo](./public/hero-readme-dark.svg)
+
 
 ---
 
