@@ -1,6 +1,6 @@
 # Assistente de Trabalho – Next.js + OpenAI
 
-**Sua IA personalizada** com seus arquivos, livros e referências.  
+**Um projeto full stack que implementa um assistente de trabalho acessível via web, com backend em Next.js 15 (API Routes) e frontend em React/TypeScript
 
 - Construído com **Next.js 15**, **TypeScript** e **TailwindCSS**,
 - Consumindo a **OpenAI API** com suporte a **RAG** e **orquestração de ferramentas**.
