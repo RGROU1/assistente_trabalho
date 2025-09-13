@@ -5,8 +5,6 @@ Projeto full-stack que entrega um assistente de trabalho acessível via web. Bac
 O sistema consome a OpenAI API e inclui suporte a RAG (recuperação de contexto a partir de arquivos e referências) e orquestração de ferramentas para executar tarefas auxiliares antes ou durante a geração de respostas.
 
 
-![Demo](./public/hero-readme-dark.svg)
-
 ---
 
 ## Tecnologias & Skills
